@@ -1,0 +1,6 @@
+/home/dodekoekjes/Documents/development/games/salem/.mono/temp/obj/Tools/Salem.csprojResolveAssemblyReference.cache
+/home/dodekoekjes/Documents/development/games/salem/.mono/temp/obj/Tools/Salem.csproj.CoreCompileInputs.cache
+/home/dodekoekjes/Documents/development/games/salem/.mono/temp/bin/Tools/Salem.dll
+/home/dodekoekjes/Documents/development/games/salem/.mono/temp/bin/Tools/Salem.pdb
+/home/dodekoekjes/Documents/development/games/salem/.mono/temp/obj/Tools/Salem.dll
+/home/dodekoekjes/Documents/development/games/salem/.mono/temp/obj/Tools/Salem.pdb

@@ -1,10 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salem", "Salem.csproj", "{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}"
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salem", "Salem.csproj", "{92F2D6D1-11E7-4D7D-B804-C8476DB74523}"
->>>>>>> a510041fed4444d36bc0bf53668a86939bdd6ac0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salem", "Salem.csproj", "{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,20 +9,11 @@ Global
 	Tools|Any CPU = Tools|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-<<<<<<< HEAD
-		{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
-		{72DA654A-44F1-4788-88EB-8ECCD7F96C6A}.Tools|Any CPU.Build.0 = Tools|Any CPU
-=======
-		{92F2D6D1-11E7-4D7D-B804-C8476DB74523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92F2D6D1-11E7-4D7D-B804-C8476DB74523}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92F2D6D1-11E7-4D7D-B804-C8476DB74523}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92F2D6D1-11E7-4D7D-B804-C8476DB74523}.Release|Any CPU.Build.0 = Release|Any CPU
-		{92F2D6D1-11E7-4D7D-B804-C8476DB74523}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
-		{92F2D6D1-11E7-4D7D-B804-C8476DB74523}.Tools|Any CPU.Build.0 = Tools|Any CPU
->>>>>>> a510041fed4444d36bc0bf53668a86939bdd6ac0
+		{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{C49976B8-3F24-474C-9C1F-05EB54CD8FF4}.Tools|Any CPU.Build.0 = Tools|Any CPU
 	EndGlobalSection
 EndGlobal
