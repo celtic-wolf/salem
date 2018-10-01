@@ -3,7 +3,7 @@
 [ext_resource path="res://Properties/ControllerMultiplayer.cs" type="Script" id=1]
 [ext_resource path="res://Properties/MainMenu.tscn" type="PackedScene" id=2]
 
-[node name="Main" type="Node"]
+[node name="Main" type="Node" index="0"]
 
 [node name="ControllerMultiplayer" type="Node" parent="." index="0"]
 
